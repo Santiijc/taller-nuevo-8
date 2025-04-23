@@ -2,6 +2,7 @@
 
 int main(){
 
-
+    printf("nose");
+    
     return 0; 
 }
